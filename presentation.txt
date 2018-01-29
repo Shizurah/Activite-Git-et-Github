@@ -1,2 +1,4 @@
 Bonjour à tous,
 je suis Shizurah et j'ai 28 ans.
+
+Je débute complètement dans la manipulation de Git et GitHub : cette activité est très utile pour s'entraîner.
